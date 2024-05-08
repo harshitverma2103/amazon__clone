@@ -7,6 +7,20 @@
   font-family: Outfit;
 }
 
-body{
-     background: #dadada;
+body {
+  background: #dadada;
+}
+
+a {
+     text-decoration: none;
+     color: inherit;
+}
+
+nav{
+     display: flex;
+     align-items: center;
+     justify-content: space-evenly;
+     background-color: #131921;
+     padding: 10px 20px;
+     color: #fff;
 }
